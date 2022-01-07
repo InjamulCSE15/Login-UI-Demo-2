@@ -215,3 +215,14 @@ canvas {
     left: 0;
     background-color: black;
 }
+
+footer {
+  margin-top: 10px;
+  text-align: center;
+  color: #fff;
+}
+
+footer a {
+  color: #03e9f4;
+  text-decoration: none;
+}
